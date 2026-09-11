@@ -1,0 +1,6 @@
+{
+  "name": "AI Data Storyteller",
+  "description": "Transform CSV and Excel datasets into interactive visual data stories with automated insights, conversational data exploration, and multi-format reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
